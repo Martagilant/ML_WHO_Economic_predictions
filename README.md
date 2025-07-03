@@ -16,14 +16,6 @@ A repository of the projects I worked on or currently working on. It is updated 
 * Structure of this repository:
   ![Structure](src/img/structure_src.png)
   
- ├── src/               # Folder including all working archives
-    ├── data_sample/    # Dataset
-    ├── img/            # Images  
-    ├── models/         # LightGBM model in pickle 
-    ├── notebooks/      # Working jupyter notebooks
-    ├── utils/          # Functions used in this proyect
-├── main.ipynb          # Final jupyter notebook detailing work
-├── presentation.pdf    
-├── README.md  
+
 
 
