@@ -14,7 +14,7 @@ A repository of the projects I worked on or currently working on. It is updated 
 * Visual analysis: bar plot, boxplot, pie chart, scatter plot and heat maps.
 * Keywords(Python, Kaggle, WHO, Analysis, Trends, Predictions)
 * Structure of this repository:
-  ![Structure](imag/structure_src.png
+  ![Structure](src/img/structure_src.png]
   
  ├── src/               # Folder including all working archives
     ├── data_sample/    # Dataset
